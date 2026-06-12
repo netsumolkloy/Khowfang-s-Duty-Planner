@@ -1,0 +1,6 @@
+{
+  "name": "Khowfang's Duty Planner",
+  "description": "ผู้ช่วยวางแผนและสรุปเวรพยาบาลแสนน่ารักสำหรับคุณข้าวฟ่าง 🌸🐻🩷✨ บันทึกตารางเวร สรุปเวร และหาวันหยุดได้อย่างง่ายดาย",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
